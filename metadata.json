@@ -1,0 +1,5 @@
+{
+  "name": "CineWise",
+  "description": "A premium movie and TV show recommendation engine. Describe what you want to watch in natural language.",
+  "requestFramePermissions": []
+}
